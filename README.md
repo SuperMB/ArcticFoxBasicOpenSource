@@ -1,4 +1,4 @@
-# ArcticFoxBasicOpenSource
+# Arctic Fox Basic Open Source
 
 <p align="center">
     <img src="https://icii.io/wp-content/uploads/2022/09/New-Arctic-Fox-Logo.Blue_.For-Animation.WithBehindForGaps-1.svg" alt="Arctic Fox Logo" style="width:300px;"/>
