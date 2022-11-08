@@ -1,5 +1,5 @@
 @Description
-// Automation Name: _RisingEdge
+// Automation Name: RisingEdge
 
 @AfterNext
 //[Previous]

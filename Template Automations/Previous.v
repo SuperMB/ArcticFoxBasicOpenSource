@@ -1,5 +1,5 @@
 @Description
-// Automation Name: _Previous
+// Automation Name: Previous
 
 @AfterAutomation
 reg {NextReg().Width} p_{NextReg().Name};
